@@ -1,0 +1,1266 @@
+{
+  "users": [
+    {
+      "fullName": "Nguyễn Xuân Trường",
+      "email": "nd113112003@gmail.com",
+      "password": "Duong13112003",
+      "token": "gS@7UG2zvweWtk4",
+      "id": 1
+    },
+    {
+      "fullName": "Nguyễn Xuân Dương",
+      "email": "nd13112003@gmail.com",
+      "password": "Duong123456789",
+      "token": "^&Cni2L][IaT(v^",
+      "id": 3
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML"
+    },
+    {
+      "id": 2,
+      "name": "Java"
+    },
+    {
+      "id": 3,
+      "name": "React Js"
+    },
+    {
+      "id": 4,
+      "name": "CSS"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "question": "HTML viết tắt của ...?",
+      "answers": [
+        "Hyperlink and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "topicId": 1,
+      "question": "Thẻ HTML nào được dùng để tạo tiêu đề lớn nhất?",
+      "answers": [
+        "<heading>",
+        "<h6>",
+        "<h1>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "topicId": 1,
+      "question": "Thẻ HTML nào được sử dụng để tạo liên kết?",
+      "answers": [
+        "<a>",
+        "<link>",
+        "<href>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "topicId": 1,
+      "question": "Thẻ HTML nào dùng để chèn hình ảnh?",
+      "answers": [
+        "<img>",
+        "<image>",
+        "<src>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "topicId": 1,
+      "question": "Thuộc tính HTML nào chỉ định một địa chỉ URL cho liên kết?",
+      "answers": [
+        "src",
+        "href",
+        "link"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "topicId": 1,
+      "question": "Thẻ HTML nào được dùng để tạo danh sách không có thứ tự?",
+      "answers": [
+        "<ul>",
+        "<ol>",
+        "<li>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "topicId": 1,
+      "question": "Thẻ HTML nào được sử dụng để tạo bảng?",
+      "answers": [
+        "<table>",
+        "<td>",
+        "<tr>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 8,
+      "topicId": 1,
+      "question": "Thuộc tính HTML nào định nghĩa kích thước của hình ảnh?",
+      "answers": [
+        "alt",
+        "src",
+        "width"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "topicId": 1,
+      "question": "Thẻ HTML nào tạo một dòng ngang?",
+      "answers": [
+        "<br>",
+        "<hr>",
+        "<line>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 10,
+      "topicId": 1,
+      "question": "Thẻ HTML nào dùng để tạo một vùng nhập liệu văn bản?",
+      "answers": [
+        "<input type='text'>",
+        "<textarea>",
+        "<textbox>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 11,
+      "topicId": 1,
+      "question": "Thẻ HTML nào để tạo một nút bấm?",
+      "answers": [
+        "<input type='button'>",
+        "<button>",
+        "<input>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 12,
+      "topicId": 1,
+      "question": "HTML5 có thẻ mới nào để xác định phần thân chính của tài liệu?",
+      "answers": [
+        "<section>",
+        "<main>",
+        "<header>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 13,
+      "topicId": 1,
+      "question": "Thẻ HTML nào định nghĩa tiêu đề của tài liệu?",
+      "answers": [
+        "<meta>",
+        "<title>",
+        "<head>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "topicId": 1,
+      "question": "Thuộc tính HTML nào giúp xác định văn bản thay thế cho hình ảnh?",
+      "answers": [
+        "title",
+        "alt",
+        "src"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 15,
+      "topicId": 1,
+      "question": "Thẻ HTML nào định nghĩa tiêu đề của bảng?",
+      "answers": [
+        "<thead>",
+        "<caption>",
+        "<title>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "topicId": 1,
+      "question": "HTML là ngôn ngữ lập trình hay ngôn ngữ đánh dấu?",
+      "answers": [
+        "Ngôn ngữ lập trình",
+        "Ngôn ngữ đánh dấu",
+        "Cả hai"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17,
+      "topicId": 1,
+      "question": "Thuộc tính HTML nào dùng để mở liên kết trong tab mới?",
+      "answers": [
+        "target='_self'",
+        "target='_blank'",
+        "target='_new'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 18,
+      "topicId": 1,
+      "question": "Thẻ HTML nào định nghĩa một phần chân trang của tài liệu?",
+      "answers": [
+        "<footer>",
+        "<bottom>",
+        "<section>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 19,
+      "topicId": 1,
+      "question": "Thẻ HTML nào dùng để nhúng tập tin video vào trang web?",
+      "answers": [
+        "<media>",
+        "<video>",
+        "<embed>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "topicId": 1,
+      "question": "HTML có phân biệt chữ hoa chữ thường không?",
+      "answers": [
+        "Có",
+        "Không"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 21,
+      "topicId": 2,
+      "question": "Java là ngôn ngữ lập trình hướng đối tượng hay thủ tục?",
+      "answers": [
+        "Hướng đối tượng",
+        "Thủ tục",
+        "Cả hai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 22,
+      "topicId": 2,
+      "question": "Lệnh nào dùng để xuất ra màn hình trong Java?",
+      "answers": [
+        "console.log()",
+        "System.out.println()",
+        "echo()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 23,
+      "topicId": 2,
+      "question": "Từ khóa nào trong Java được dùng để kế thừa một lớp?",
+      "answers": [
+        "implements",
+        "inherits",
+        "extends"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 24,
+      "topicId": 2,
+      "question": "Constructor trong Java là gì?",
+      "answers": [
+        "Một phương thức để khởi tạo đối tượng",
+        "Một biến đặc biệt",
+        "Một kiểu dữ liệu mới"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 25,
+      "topicId": 2,
+      "question": "Phương thức nào được gọi đầu tiên khi chương trình Java bắt đầu chạy?",
+      "answers": [
+        "start()",
+        "main()",
+        "init()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 26,
+      "topicId": 2,
+      "question": "Trong Java, từ khóa nào được dùng để tạo đối tượng?",
+      "answers": [
+        "create",
+        "new",
+        "object"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 27,
+      "topicId": 2,
+      "question": "Từ khóa nào được sử dụng để ngăn chặn kế thừa một lớp trong Java?",
+      "answers": [
+        "final",
+        "static",
+        "sealed"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 28,
+      "topicId": 2,
+      "question": "Trong Java, từ khóa nào dùng để khai báo một interface?",
+      "answers": [
+        "interface",
+        "abstract",
+        "class"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 29,
+      "topicId": 2,
+      "question": "Kiểu dữ liệu nào trong Java được dùng để lưu trữ số nguyên?",
+      "answers": [
+        "double",
+        "int",
+        "float"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 30,
+      "topicId": 2,
+      "question": "Từ khóa nào được sử dụng để xử lý ngoại lệ trong Java?",
+      "answers": [
+        "try-catch",
+        "catch-throw",
+        "handle-exception"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 31,
+      "topicId": 2,
+      "question": "Lớp nào trong Java được sử dụng để tạo một chuỗi có thể thay đổi?",
+      "answers": [
+        "String",
+        "StringBuilder",
+        "StringBuffer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 32,
+      "topicId": 2,
+      "question": "Trong Java, từ khóa nào dùng để ghi đè phương thức của lớp cha?",
+      "answers": [
+        "overwrite",
+        "override",
+        "super"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 33,
+      "topicId": 2,
+      "question": "Từ khóa nào được dùng để tham chiếu đến lớp hiện tại trong Java?",
+      "answers": [
+        "this",
+        "super",
+        "self"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 34,
+      "topicId": 2,
+      "question": "Lớp nào trong Java là lớp cha của tất cả các lớp?",
+      "answers": [
+        "Object",
+        "Class",
+        "Base"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 35,
+      "topicId": 2,
+      "question": "Phương thức nào được sử dụng để lấy kích thước của một mảng trong Java?",
+      "answers": [
+        "length()",
+        "size()",
+        "length"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 36,
+      "topicId": 2,
+      "question": "Từ khóa nào được sử dụng để kết thúc vòng lặp sớm trong Java?",
+      "answers": [
+        "break",
+        "stop",
+        "exit"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 37,
+      "topicId": 2,
+      "question": "Lớp nào trong Java được sử dụng để xử lý luồng (thread)?",
+      "answers": [
+        "Thread",
+        "Runnable",
+        "Process"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 38,
+      "topicId": 2,
+      "question": "Từ khóa nào được sử dụng để tạo một lớp con trong Java?",
+      "answers": [
+        "inherits",
+        "subclass",
+        "extends"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 39,
+      "topicId": 2,
+      "question": "Từ khóa nào dùng để gọi phương thức của lớp cha trong Java?",
+      "answers": [
+        "parent",
+        "this",
+        "super"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 40,
+      "topicId": 2,
+      "question": "Phương thức nào trong Java được sử dụng để so sánh hai chuỗi?",
+      "answers": [
+        "compare()",
+        "equals()",
+        "match()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 41,
+      "topicId": 3,
+      "question": "ReactJS là một ...?",
+      "answers": [
+        "Thư viện",
+        "Framework",
+        "Ngôn ngữ lập trình"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 42,
+      "topicId": 3,
+      "question": "Công ty nào phát triển ReactJS?",
+      "answers": [
+        "Google",
+        "Facebook (Meta)",
+        "Microsoft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 43,
+      "topicId": 3,
+      "question": "JSX trong React là gì?",
+      "answers": [
+        "Một loại CSS",
+        "Một phần mở rộng cú pháp JavaScript",
+        "Một loại API"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 44,
+      "topicId": 3,
+      "question": "React component nào dưới đây là component có trạng thái (stateful)?",
+      "answers": [
+        "Function Component",
+        "Class Component",
+        "Stateless Component"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 45,
+      "topicId": 3,
+      "question": "Phương thức nào được dùng để cập nhật state trong React Class Component?",
+      "answers": [
+        "updateState()",
+        "setState()",
+        "this.state()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 46,
+      "topicId": 3,
+      "question": "Hook nào được sử dụng để quản lý state trong Function Component?",
+      "answers": [
+        "useState()",
+        "useEffect()",
+        "useContext()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 47,
+      "topicId": 3,
+      "question": "Hook nào trong React dùng để thay thế các lifecycle methods như componentDidMount, componentDidUpdate?",
+      "answers": [
+        "useState()",
+        "useEffect()",
+        "useContext()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 48,
+      "topicId": 3,
+      "question": "Trong React, props được sử dụng để làm gì?",
+      "answers": [
+        "Để lưu trữ trạng thái của component",
+        "Để truyền dữ liệu giữa các component",
+        "Để thay đổi DOM trực tiếp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 49,
+      "topicId": 3,
+      "question": "Một component có thể thay đổi props của nó không?",
+      "answers": [
+        "Có",
+        "Không"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 50,
+      "topicId": 3,
+      "question": "Context API trong React dùng để ...?",
+      "answers": [
+        "Tối ưu hóa hiệu suất component",
+        "Truyền dữ liệu qua các component mà không cần truyền qua từng cấp",
+        "Thay đổi state bên trong component"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 51,
+      "topicId": 3,
+      "question": "Sự kiện nào dưới đây không phải là sự kiện trong React?",
+      "answers": [
+        "onClick",
+        "onChange",
+        "onHover"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 52,
+      "topicId": 3,
+      "question": "Thư viện nào thường được sử dụng để quản lý routing trong React?",
+      "answers": [
+        "React Router",
+        "Redux",
+        "MobX"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 53,
+      "topicId": 3,
+      "question": "Redux trong React được sử dụng để ...?",
+      "answers": [
+        "Quản lý trạng thái ứng dụng",
+        "Quản lý router",
+        "Tối ưu hóa hiệu suất"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 54,
+      "topicId": 3,
+      "question": "Từ khóa nào được dùng để xuất một component trong React?",
+      "answers": [
+        "import",
+        "export",
+        "module.exports"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 55,
+      "topicId": 3,
+      "question": "React Fragment (<> </>) dùng để làm gì?",
+      "answers": [
+        "Bọc nhiều element mà không thêm node DOM nào vào HTML",
+        "Thêm một đoạn HTML mới",
+        "Tối ưu hóa hiệu suất ứng dụng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 56,
+      "topicId": 3,
+      "question": "Phương thức nào dùng để trả về JSX trong Class Component?",
+      "answers": [
+        "render()",
+        "return()",
+        "display()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 57,
+      "topicId": 3,
+      "question": "Điều gì sẽ xảy ra nếu không trả về JSX trong phương thức render() của Class Component?",
+      "answers": [
+        "Một lỗi sẽ xảy ra",
+        "Không có gì xảy ra",
+        "Component sẽ được render nhưng không có nội dung"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 58,
+      "topicId": 3,
+      "question": "Trong React, state là ...?",
+      "answers": [
+        "Dữ liệu thay đổi theo thời gian",
+        "Dữ liệu không thay đổi",
+        "Dữ liệu được truyền từ component cha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 59,
+      "topicId": 3,
+      "question": "useEffect() với một mảng rỗng [] làm dependency được gọi bao nhiêu lần?",
+      "answers": [
+        "Mỗi khi component re-render",
+        "Chỉ một lần khi component được mount",
+        "Mỗi khi có thay đổi state"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 60,
+      "topicId": 3,
+      "question": "Phương thức nào trong React Router để điều hướng đến một trang khác?",
+      "answers": [
+        "navigate()",
+        "useNavigate()",
+        "goTo()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 61,
+      "topicId": 4,
+      "question": "CSS là viết tắt của gì?",
+      "answers": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 62,
+      "topicId": 4,
+      "question": "Lệnh nào dùng để thay đổi màu nền trong CSS?",
+      "answers": [
+        "color",
+        "background-color",
+        "background"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 63,
+      "topicId": 4,
+      "question": "Thuộc tính nào để căn giữa một phần tử theo chiều ngang?",
+      "answers": [
+        "text-align: center;",
+        "margin: auto;",
+        "align: center;"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 64,
+      "topicId": 4,
+      "question": "Thuộc tính nào thay đổi kích thước font chữ trong CSS?",
+      "answers": [
+        "text-size",
+        "font-style",
+        "font-size"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 65,
+      "topicId": 4,
+      "question": "Phương thức nào trong CSS để tạo khoảng cách giữa các đường trong văn bản?",
+      "answers": [
+        "line-height",
+        "spacing",
+        "letter-spacing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 66,
+      "topicId": 4,
+      "question": "Đơn vị nào dùng để chỉ kích thước tương đối so với font gốc?",
+      "answers": [
+        "px",
+        "em",
+        "%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 67,
+      "topicId": 4,
+      "question": "Làm thế nào để áp dụng CSS cho một class trong HTML?",
+      "answers": [
+        ".className",
+        "#className",
+        "class: className"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 68,
+      "topicId": 4,
+      "question": "Trong CSS, thuộc tính nào dùng để thay đổi kiểu hiển thị của phần tử (block, inline)?",
+      "answers": [
+        "display",
+        "visibility",
+        "position"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 69,
+      "topicId": 4,
+      "question": "Trong CSS, thuộc tính nào để tạo đổ bóng cho phần tử?",
+      "answers": [
+        "shadow-box",
+        "box-shadow",
+        "border-shadow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 70,
+      "topicId": 4,
+      "question": "Cách nào để ẩn một phần tử trong CSS mà không xóa nó khỏi DOM?",
+      "answers": [
+        "visibility: hidden;",
+        "display: none;",
+        "opacity: 0;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 71,
+      "topicId": 4,
+      "question": "Thuộc tính nào trong CSS dùng để thay đổi vị trí của phần tử?",
+      "answers": [
+        "position",
+        "location",
+        "place"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 72,
+      "topicId": 4,
+      "question": "Cách nào để thêm CSS nội tuyến vào phần tử HTML?",
+      "answers": [
+        "Sử dụng thuộc tính class",
+        "Sử dụng thuộc tính style",
+        "Sử dụng thuộc tính id"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 73,
+      "topicId": 4,
+      "question": "Thuộc tính nào dùng để điều chỉnh độ trong suốt của phần tử?",
+      "answers": [
+        "opacity",
+        "visibility",
+        "transparency"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 74,
+      "topicId": 4,
+      "question": "Cách nào để áp dụng một kiểu cho nhiều phần tử cùng một lúc trong CSS?",
+      "answers": [
+        "Sử dụng nhiều thuộc tính style",
+        "Sử dụng dấu phẩy để chọn nhiều phần tử",
+        "Sử dụng nhiều thẻ <style>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 75,
+      "topicId": 4,
+      "question": "Trong Flexbox, thuộc tính nào dùng để căn chỉnh các phần tử theo chiều dọc?",
+      "answers": [
+        "align-items",
+        "justify-content",
+        "align-content"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 76,
+      "topicId": 4,
+      "question": "Trong CSS Grid, thuộc tính nào dùng để tạo hàng và cột?",
+      "answers": [
+        "grid-area",
+        "grid-template",
+        "grid-template-areas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 77,
+      "topicId": 4,
+      "question": "Thuộc tính nào dùng để tạo không gian giữa nội dung của phần tử và đường viền của nó?",
+      "answers": [
+        "padding",
+        "margin",
+        "border-spacing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 78,
+      "topicId": 4,
+      "question": "Thuộc tính nào trong CSS được dùng để thêm không gian bên ngoài của một phần tử?",
+      "answers": [
+        "margin",
+        "padding",
+        "border"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 79,
+      "topicId": 4,
+      "question": "Phương thức nào được dùng để tạo hiệu ứng chuyển động trong CSS?",
+      "answers": [
+        "animate()",
+        "@keyframes",
+        "transition()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 80,
+      "topicId": 4,
+      "question": "Lệnh nào dùng để liên kết file CSS bên ngoài vào HTML?",
+      "answers": [
+        "<style href='style.css'>",
+        "<link rel='stylesheet' href='style.css'>",
+        "<stylesheet src='style.css'>"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "answers": [
+    {
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 20,
+          "answer": 0
+        },
+        {
+          "questionId": 19,
+          "answer": 1
+        },
+        {
+          "questionId": 18,
+          "answer": 1
+        },
+        {
+          "questionId": 17,
+          "answer": 1
+        },
+        {
+          "questionId": 16,
+          "answer": 0
+        },
+        {
+          "questionId": 15,
+          "answer": 0
+        },
+        {
+          "questionId": 14,
+          "answer": 1
+        },
+        {
+          "questionId": 13,
+          "answer": 1
+        },
+        {
+          "questionId": 12,
+          "answer": 1
+        },
+        {
+          "questionId": 11,
+          "answer": 1
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 9,
+          "answer": 1
+        },
+        {
+          "questionId": 8,
+          "answer": 0
+        },
+        {
+          "questionId": 6,
+          "answer": 2
+        },
+        {
+          "questionId": 5,
+          "answer": 0
+        },
+        {
+          "questionId": 4,
+          "answer": 1
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 7,
+          "answer": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 0
+        },
+        {
+          "questionId": 22,
+          "answer": 1
+        },
+        {
+          "questionId": 23,
+          "answer": 2
+        },
+        {
+          "questionId": 24,
+          "answer": 0
+        },
+        {
+          "questionId": 25,
+          "answer": 1
+        },
+        {
+          "questionId": 26,
+          "answer": 1
+        },
+        {
+          "questionId": 27,
+          "answer": 1
+        },
+        {
+          "questionId": 28,
+          "answer": 0
+        },
+        {
+          "questionId": 29,
+          "answer": 1
+        },
+        {
+          "questionId": 30,
+          "answer": 0
+        },
+        {
+          "questionId": 31,
+          "answer": 0
+        },
+        {
+          "questionId": 32,
+          "answer": 1
+        },
+        {
+          "questionId": 33,
+          "answer": 0
+        },
+        {
+          "questionId": 34,
+          "answer": 0
+        },
+        {
+          "questionId": 35,
+          "answer": 0
+        },
+        {
+          "questionId": 36,
+          "answer": 0
+        },
+        {
+          "questionId": 37,
+          "answer": 0
+        },
+        {
+          "questionId": 38,
+          "answer": 2
+        },
+        {
+          "questionId": 39,
+          "answer": 2
+        },
+        {
+          "questionId": 40,
+          "answer": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 41,
+          "answer": 1
+        },
+        {
+          "questionId": 42,
+          "answer": 1
+        },
+        {
+          "questionId": 43,
+          "answer": 1
+        },
+        {
+          "questionId": 44,
+          "answer": 0
+        },
+        {
+          "questionId": 45,
+          "answer": 1
+        },
+        {
+          "questionId": 46,
+          "answer": 0
+        },
+        {
+          "questionId": 47,
+          "answer": 0
+        },
+        {
+          "questionId": 48,
+          "answer": 1
+        },
+        {
+          "questionId": 49,
+          "answer": 1
+        },
+        {
+          "questionId": 50,
+          "answer": 1
+        },
+        {
+          "questionId": 51,
+          "answer": 2
+        },
+        {
+          "questionId": 52,
+          "answer": 0
+        },
+        {
+          "questionId": 53,
+          "answer": 0
+        },
+        {
+          "questionId": 54,
+          "answer": 1
+        },
+        {
+          "questionId": 55,
+          "answer": 0
+        },
+        {
+          "questionId": 56,
+          "answer": 0
+        },
+        {
+          "questionId": 57,
+          "answer": 2
+        },
+        {
+          "questionId": 58,
+          "answer": 0
+        },
+        {
+          "questionId": 59,
+          "answer": 1
+        },
+        {
+          "questionId": 60,
+          "answer": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 0
+        },
+        {
+          "questionId": 4,
+          "answer": 0
+        },
+        {
+          "questionId": 5,
+          "answer": 1
+        },
+        {
+          "questionId": 6,
+          "answer": 1
+        },
+        {
+          "questionId": 7,
+          "answer": 1
+        },
+        {
+          "questionId": 8,
+          "answer": 2
+        },
+        {
+          "questionId": 9,
+          "answer": 2
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 11,
+          "answer": 1
+        },
+        {
+          "questionId": 13,
+          "answer": 1
+        },
+        {
+          "questionId": 12,
+          "answer": 1
+        },
+        {
+          "questionId": 14,
+          "answer": 1
+        },
+        {
+          "questionId": 15,
+          "answer": 1
+        },
+        {
+          "questionId": 16,
+          "answer": 2
+        },
+        {
+          "questionId": 17,
+          "answer": 2
+        },
+        {
+          "questionId": 18,
+          "answer": 1
+        },
+        {
+          "questionId": 19,
+          "answer": 0
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        }
+      ],
+      "id": 4
+    }
+  ]
+}

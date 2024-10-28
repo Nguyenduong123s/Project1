@@ -1,0 +1,22 @@
+.title{
+    margin-bottom: 0;
+    margin-left:1rem ;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.form{
+    display: flex;
+    align-items: center;
+    margin-left: 1.2rem;
+    margin-top: 1rem;
+}
+.question{
+    margin-left: 0.5rem;
+    line-height: 1rem;
+}
+.checkBox{
+    height: 1rem;
+}
+.error{
+    color: red;
+}
